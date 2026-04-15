@@ -147,13 +147,13 @@ fi
     sudo ln -sf /usr/lib/firmware/qcom/x1p42100/gen70500_zap.mbn.zst /lib/firmware/qcom/gen70500_zap.mbn
     sudo update-initramfs -u -k all
 ```
- ADD the devicetree to /etc/default/grub (so changes persist)
- Update grub
- Update Ubuntu (apt full-upgrade)
- (IF you have issues booting, try using the 6.19 kernel in the default boot option)
- Follow the guide at https://github.com/alexVinarskis/linux-x1e80100-zenbook-a14 for wi-fi and audio!
- Update initramfs (again)
- Reboot and it SHOULD work!
+ ADD the devicetree to /etc/default/grub (so changes persist). 
+ Update grub. 
+ Update Ubuntu (apt full-upgrade). 
+ (IF you have issues booting, try using the 6.19 kernel in the default boot option.) 
+ Follow the guide at https://github.com/alexVinarskis/linux-x1e80100-zenbook-a14 for wi-fi and audio! 
+ Update initramfs (again)... 
+ Reboot and it SHOULD work! 
 --
 
 --
