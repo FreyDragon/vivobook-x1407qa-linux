@@ -1,6 +1,6 @@
 # vivobook-x1407qa-linux
- Patches and Devicetree changes to make GNU/Linux excellent on this affordable model!
-<small>Once completed (100%), I plan to push to mainline changes</small>
+<sub>Patches and Devicetree changes to make GNU/Linux excellent on this affordable model!</sub>
+<sup>Once completed (100%), I plan to push to mainline changes</sup>
 --
 Currently using a Vivobook s15 device tree, working on a custom one to fix USB support!
 ## Feature Matrix
