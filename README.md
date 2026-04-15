@@ -27,7 +27,7 @@ Currently using a Vivobook s15 device tree, working on a custom one to fix USB s
 | Touchpad                |     ✅ |                                                                                                              |
 | TPM                     |     ❌ | Firmware TPM                                                                                                 |
 | USB-A 3.0               |    WIP | Requires devicetree work for hotplug to function (coldplugs fine)                                            |
-| USB-C 3.0               |    WIP | Requires devicetree work for hotplug to function (coldplugs fine)                                            |
+| USB-C 3.0               |    WIP | Requires devicetree work for hotplug to function on the front port (coldplugs fine) BUT THE BACK PORT WORKS! |
 | USB-C Booting           |     ✅ |                                                                                                              |
 | USB-C DP Alt Mode       |    WIP |                                                                                                              |
 | USB-C DP over dock      |    WIP |                                                                                                              |
