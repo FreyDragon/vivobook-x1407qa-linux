@@ -48,7 +48,8 @@ Currently using a Vivobook s15 device tree, working on a custom one to fix USB s
 <sub>You MUST HAVE ALL OF THEM TO PROCEED</sub>
 --
 
-# MAKE SURE YOU HAVE AN X1407QA, Check the bottom label! It MUST SAY x1407q for this to work!
+## MAKE SURE YOU HAVE AN X1407QA, Check the bottom label! It MUST SAY x1407q for this to work!
+--
  *Asus x1407QA (Snapdragon X) running Windows (With the ORIGINAL ASUS IMAGE AND ALL PREINSTALLED DRIVERS)
  *Usb Drive (min. 16+GB) For the Ubuntu Install AS WELL AS A BACKUP OF THE DRIVER STORE!
  *ANOTHER Usb Drive (Preferably 32+GB, BUT as little as a 2GB has a chance to work) For the ASUS Recovery Media
