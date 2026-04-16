@@ -160,10 +160,10 @@ fi
 
 # Credits
 - https://github.com/alexVinarskis/linux-x1e80100-zenbook-a14 
-<small>Feature Matrix Template, Initial Inspiration, Contains 90% of the work to make this model work.</small>
+##### <small>Feature Matrix Template, Initial Inspiration, Contains 90% of the work to make this model work.</small>
 - https://github.com/aarch64-laptops
-<small>Made the MAJORITY of the devicetree</small>
+##### <small>Made the MAJORITY of the devicetree</small>
 - https://discourse.ubuntu.com/t/looking-for-support-on-installing-ubuntu-on-snapdragon-x/74615/13
-<small>This guy made an ISO that I was able to get booting for initial setup!</small>
+##### <small>This guy made an ISO that I was able to get booting for initial setup!</small>
 
 
